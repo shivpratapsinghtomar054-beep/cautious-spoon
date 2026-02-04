@@ -1,0 +1,8 @@
+
+{
+  "name": "GuitarKey - Custom Android Keyboard",
+  "description": "A modern system keyboard concept for Android where every key press triggers a unique, low-latency guitar note or chord. Features acoustic and electric modes with full A-Z support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
